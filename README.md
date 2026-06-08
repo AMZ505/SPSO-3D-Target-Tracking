@@ -6,7 +6,7 @@ The implementation is based on the methodology presented in the following public
 
 > **A. M. Farid, S. Egerton, J. C. Barca, and M. A. S. Kamal**,
 > *"Search and Tracking in 3D Space Using a Species Based Particle Swarm Optimizer,"*
-> 2018 IEEE International Conference on Automatic Control and Intelligent Systems (I2CACIS), Shah Alam, Malaysia, 2018, pp. 155–160.
+> 2018 IEEE International Conference on Automatic Control and Intelligent Systems (I2CACIS), 2018, pp. 155–160.
 > DOI: **10.1109/I2CACIS.2018.8603709**
 
 ## Abstract
